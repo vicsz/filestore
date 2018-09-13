@@ -1,3 +1,3 @@
 # filestore
 
-Sample Readme
+File store to help with proxy issues .. 
